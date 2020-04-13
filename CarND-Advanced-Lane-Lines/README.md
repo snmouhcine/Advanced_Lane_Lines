@@ -21,7 +21,7 @@ Relevant files
 
 Code
 ---
-+ [Full Pipeline.ipynb](./Full Pipeline.ipynb)
++ [Full Pipeline.ipynb](./Full%20Pipeline.ipynb)
 
 Output Videos
 ---
